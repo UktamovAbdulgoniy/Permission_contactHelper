@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PermissionContactHelper</string>
+    <string name="number">Number</string>
+    <string name="text_sms">Text Sms</string>
+    <string name="text_activity">Contact Helper</string>
+    <string name="text_sendSms">Sms</string>
+</resources>
